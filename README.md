@@ -1,2 +1,3 @@
 # Cash Register System
-![](niagaracollege_logo.jpg)
+
+<img src="src/nc_logo.png" width="250">
